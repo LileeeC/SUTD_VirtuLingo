@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6729dffcb938f0e4ba566de2bed340cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flashcardPrefab: {fileID: 3977332744503682317, guid: b0c92a22168ed6e4c83dd9eb74c7c78f, type: 3}
+  - UIParentForFlashcards: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

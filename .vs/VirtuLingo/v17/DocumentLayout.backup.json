@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\VirtuLingo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB27AE4-07E8-ABEF-B8CD-6D027CFD4D6F}|Assembly-CSharp.csproj|c:\\users\\user\\virtulingo\\assets\\myscene\\scripts\\scenemanagementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB27AE4-07E8-ABEF-B8CD-6D027CFD4D6F}|Assembly-CSharp.csproj|solutionrelative:assets\\myscene\\scripts\\scenemanagementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\virtulingo\\assets\\myscene\\scenemanagementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\myscene\\scenemanagementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\VirtuLingo\\Assets\\com.gleechi.unity.virtualgrasp\\Runtime\\Scripts\\VG_Locomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\com.gleechi.unity.virtualgrasp\\Runtime\\Scripts\\VG_Locomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneManagementScript.cs",
+              "DocumentMoniker": "C:\\Users\\User\\VirtuLingo\\Assets\\MyScene\\Scripts\\SceneManagementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScene\\Scripts\\SceneManagementScript.cs",
+              "ToolTip": "C:\\Users\\User\\VirtuLingo\\Assets\\MyScene\\Scripts\\SceneManagementScript.cs",
+              "RelativeToolTip": "Assets\\MyScene\\Scripts\\SceneManagementScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:50:38.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneManagementScript.cs",
+              "DocumentMoniker": "C:\\Users\\User\\VirtuLingo\\Assets\\MyScene\\SceneManagementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScene\\SceneManagementScript.cs",
+              "ToolTip": "C:\\Users\\User\\VirtuLingo\\Assets\\MyScene\\SceneManagementScript.cs",
+              "RelativeToolTip": "Assets\\MyScene\\SceneManagementScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:32:04.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VG_Locomotion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\VirtuLingo\\Assets\\com.gleechi.unity.virtualgrasp\\Runtime\\Scripts\\VG_Locomotion.cs",
+              "RelativeDocumentMoniker": "Assets\\com.gleechi.unity.virtualgrasp\\Runtime\\Scripts\\VG_Locomotion.cs",
+              "ToolTip": "C:\\Users\\User\\VirtuLingo\\Assets\\com.gleechi.unity.virtualgrasp\\Runtime\\Scripts\\VG_Locomotion.cs",
+              "RelativeToolTip": "Assets\\com.gleechi.unity.virtualgrasp\\Runtime\\Scripts\\VG_Locomotion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T01:34:26.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
