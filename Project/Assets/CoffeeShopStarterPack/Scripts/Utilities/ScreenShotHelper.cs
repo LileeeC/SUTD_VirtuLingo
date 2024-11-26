@@ -32,20 +32,20 @@ public class ScreenShotHelper : MonoBehaviour {
         GameObject newObj = new GameObject();
         Camera screenShotCam = newObj.AddComponent<Camera>();
 
-//#if UNITY_POST_PROCESSING_STACK_V2
+#if UNITY_POST_PROCESSING_STACK_V2
 
-//        //If you want to  use the post processing stack as we did,
-//        //You can set it here, change settings.
+        //If you want to  use the post processing stack as we did,
+        //You can set it here, change settings.
         
-//        var postProcessLayerComponent = newObj.AddComponent<UnityEngine.Rendering.PostProcessing.PostProcessLayer>();
+        var postProcessLayerComponent = newObj.AddComponent<UnityEngine.Rendering.PostProcessing.PostProcessLayer>();
 
-//        //Choose the layer to your post process volume layer.
-//        //We named ours PostProcessLayer.
+        //Choose the layer to your post process volume layer.
+        //We named ours PostProcessLayer.
 
-//        postProcessLayerComponent.volumeLayer = LayerMask.GetMask(new string[1] { "PostProcessLayer" });
-//        postProcessLayerComponent.volumeTrigger = screenShotCam.transform;
+        postProcessLayerComponent.volumeLayer = LayerMask.GetMask(new string[1] { "PostProcessLayer" });
+        postProcessLayerComponent.volumeTrigger = screenShotCam.transform;
 
-//#endif
+#endif
         screenShotCam.fieldOfView = 60;
         screenShotCam.nearClipPlane = 0.03f;
         screenShotCam.nearClipPlane = .03f;
