@@ -10,16 +10,16 @@ EditorBuildSettings:
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
     path: Assets/MyScene/Scene/HomeScene.unity
-    guid: bad5a125dba342d429422d6439e4c51d
+    guid: 95bb61e5fb28bb94e937d32cc300e9fb
   - enabled: 1
     path: Assets/MyScene/Scene/EasyLearnScene.unity
     guid: ee1182c8c1f7b0d46b4770701dcad389
   - enabled: 1
-    path: Assets/MyScene/Scene/InterLearnScene.unity
-    guid: 9129569199255e8488021bcafdd7f6f1
+    path: Assets/MyScene/Scene/EasyPracScene.unity
+    guid: d77ced3c1423c79488565d1f901869a5
   - enabled: 1
-    path: Assets/MyScene/Scene/DiffLifeScene.unity
-    guid: 2e1d4752cd09e3244b46c2bc7c67836f
+    path: Assets/MyScene/Scene/EasyLifeScene.unity
+    guid: a5193a6ab13754741a6f893c68267440
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}

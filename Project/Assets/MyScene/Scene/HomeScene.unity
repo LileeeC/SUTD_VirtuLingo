@@ -3686,7 +3686,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u4F60\u7684\u5C41\u80A1\u5F88\u919C"
+  m_text: "\u7B2C\u4E8C\u90E8\u5206\u662F\u8907\u7FD2\u8AB2\u7A0B\uFF0C\u60A8\u53EF\u4EE5\u6BEB\u7121\u58D3\u529B\u5730\u7DF4\u7FD2\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
   m_sharedMaterial: {fileID: 4728033378289423247, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
@@ -4646,8 +4646,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "DIFFICULT \u56F0\u96E3"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8227f40d45c1c0e49b034d27f5e91541, type: 2}
-  m_sharedMaterial: {fileID: 4884629079426022469, guid: 8227f40d45c1c0e49b034d27f5e91541, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9717c4a8d70a8804b8845cb2c42be03e, type: 2}
+  m_sharedMaterial: {fileID: 8017312973391718015, guid: 9717c4a8d70a8804b8845cb2c42be03e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -19016,8 +19016,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "San Francisco \u820A\u91D1\u5C71"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8227f40d45c1c0e49b034d27f5e91541, type: 2}
-  m_sharedMaterial: {fileID: 4884629079426022469, guid: 8227f40d45c1c0e49b034d27f5e91541, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9717c4a8d70a8804b8845cb2c42be03e, type: 2}
+  m_sharedMaterial: {fileID: 8017312973391718015, guid: 9717c4a8d70a8804b8845cb2c42be03e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -20564,7 +20564,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u6700\u5F8C\u7684\u662F\u4F60\u7684\u6A5F\u6703\u80FD\u7DF4\u7FD2\u3002\u3002\u3002"
+  m_text: "\u6700\u5F8C\u4E00\u90E8\u5206\u662F\u60A8\u5728\u73FE\u5BE6\u751F\u6D3B\u5834\u666F\u4E2D\u7DF4\u7FD2\u7684\u6A5F\u6703\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8227f40d45c1c0e49b034d27f5e91541, type: 2}
   m_sharedMaterial: {fileID: 4884629079426022469, guid: 8227f40d45c1c0e49b034d27f5e91541, type: 2}
@@ -24084,8 +24084,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Easy \u5BB9\u6613"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
-  m_sharedMaterial: {fileID: 4728033378289423247, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9717c4a8d70a8804b8845cb2c42be03e, type: 2}
+  m_sharedMaterial: {fileID: 8017312973391718015, guid: 9717c4a8d70a8804b8845cb2c42be03e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -30928,7 +30928,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u8ACB\u5E6B\u6211\u7FFB\u8B6F"
+  m_text: "\u900F\u904E\u6C89\u6D78\u5728\u73FE\u5BE6\u4E16\u754C\u7684\u60C5\u5883\uFF0C\u60A8\u53EF\u4EE5\u7528\u7368\u7279\u4E14\u5275\u65B0\u7684\u65B9\u6CD5\u7DF4\u7FD2\u82F1\u8A9E\uFF01"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
   m_sharedMaterial: {fileID: 4728033378289423247, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
@@ -31458,7 +31458,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u6211\u771F\u7684\u4E0D\u80FD\u505A\u4E2D\u6587\u807D\u5E6B\u52A9\u3002"
+  m_text: "\u6BCF\u500B\u7B49\u7D1A\u90FD\u5206\u70BA\u4E09\u500B\u90E8\u5206\uFF0C\u7B2C\u4E00\u90E8\u5206\u6703\u4ECB\u7D39\u8A72\u7D1A\u5225\u4E2D\u4F7F\u7528\u7684\u8A5E\u5F59\u8A9E\u6CD5\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
   m_sharedMaterial: {fileID: 4728033378289423247, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
@@ -34052,7 +34052,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 234329920, y: 1.9740214e+22, z: 5.864187e+16, w: -2.8974013e-31}
+  m_BoundingSphereOverride: {x: 3.306076e-39, y: 2.015625, z: 1.1e-44, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -38796,7 +38796,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u8B1D\u8B1D\uFF0C \u52A0\u6CB9\uFF01"
+  m_text: "\u8B1D\u8B1D\uFF0C \u795D\u4F60\u597D\u904B\uFF01"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
   m_sharedMaterial: {fileID: 4728033378289423247, guid: 802f9746d3a5f4843bd174d93d2b91a8, type: 2}
