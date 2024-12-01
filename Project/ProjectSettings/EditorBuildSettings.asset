@@ -9,16 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
-    path: Assets/MyScene/Scene/HomeScene.unity
+    path: Assets/MainScene/Scene/HomeScene.unity
     guid: 95bb61e5fb28bb94e937d32cc300e9fb
   - enabled: 1
-    path: Assets/MyScene/Scene/EasyLearnScene.unity
+    path: Assets/MainScene/Scene/EasyLearnScene.unity
     guid: ee1182c8c1f7b0d46b4770701dcad389
   - enabled: 1
-    path: Assets/MyScene/Scene/EasyPracScene.unity
+    path: Assets/MainScene/Scene/EasyPracScene.unity
     guid: d77ced3c1423c79488565d1f901869a5
   - enabled: 1
-    path: Assets/MyScene/Scene/EasyLifeScene.unity
+    path: Assets/MainScene/Scene/EasyLifeScene.unity
     guid: a5193a6ab13754741a6f893c68267440
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
