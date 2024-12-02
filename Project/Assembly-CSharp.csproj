@@ -86,6 +86,7 @@
     <Compile Include="Assets\MainScene\Scripts\RandomizeScript.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\Callout.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\XRPokeFollowAffordanceFill.cs" />
+    <Compile Include="Assets\MainScene\Scripts\Snapping Scripts\LevelCompleted.cs" />
     <Compile Include="Assets\MainScene\Phoenix3D\P3D_Wallpaper_Carpet_and_CurtainFabric_Materials_Pack\Scripts\MaterialSwithcer.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\ServeOrder.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\CalloutGazeController.cs" />
@@ -99,8 +100,10 @@
     <Compile Include="Assets\MainScene\Scripts\ImageSwitcher.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\PanGameObject.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\ReadyToServe.cs" />
+    <Compile Include="Assets\MainScene\Scripts\Snapping Scripts\SnapToLocation.cs" />
     <Compile Include="Assets\MainScene\Scripts\SceneManagementScript.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\BezierCurve.cs" />
+    <Compile Include="Assets\MainScene\Scripts\Snapping Scripts\SnapObject.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\LaunchProjectile.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\StoveGameObject.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\StepManager.cs" />
