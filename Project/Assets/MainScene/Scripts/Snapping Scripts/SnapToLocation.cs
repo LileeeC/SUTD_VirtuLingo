@@ -20,7 +20,7 @@ public class SnapToLocation : MonoBehaviour
     public GameObject SnapRotationReference;
 
     //Detects when the block has entered snap zone radius
-    private void onTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         if(other.gameObject.name == SnapZoneBlk.name)
         {
