@@ -87,7 +87,7 @@ public class RandomizeScript : MonoBehaviour
         if (!isTimerRunning) // Check if the timer is already running.
         {
             userChoice = clickedObject;
-            StartCoroutine(StartTimer(3.5f, "...", 1f, true, Color.black)); // Start a 10-second timer.
+            StartCoroutine(StartTimer(2f, "...", 0.5f, true, Color.black)); // Start a 10-second timer.
         }
     }
 

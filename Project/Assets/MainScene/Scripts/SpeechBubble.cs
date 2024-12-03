@@ -15,13 +15,14 @@ public class SpeechBubble : MonoBehaviour
     private string checkCharacter = "#";
     private List<int> correctChoices = new List<int>();
     public float typeSpeed = 0.05f; // Delay between characters
+    public string dialogueFile;
 
     private Coroutine typingCoroutine; // Store reference to the current coroutine
 
     void Start()
     {
         HideBubble();
-        LoadDialogue("Assets/MainScene/DialogueText/dialogue.txt"); // Put path to dialogue text file here
+        LoadDialogue("Assets/MainScene/DialogueText/" + dialogueFile); // Put path to dialogue text file here
         randomize = GetComponent<RandomizeScript>();
         randomize.hideBubbles();
         NextLine();

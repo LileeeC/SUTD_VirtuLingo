@@ -1,0 +1,40 @@
+?
+#Hello there excuse me  
+Goodbye I am leaving  
+Who are you?  
+Hello mate, you alright?  
+#Yes, could you please help me with some directions  
+Yes, the weather lovely today  
+Could you please tell me what I am doing
+Sure no problem! Where do you want to go?  
+#I would like to go to The London Eye  
+I would like to go to The Gherkin  
+I’d like to go to Croydon  
+Ok which mode of transport did you want to take?  
+#I’m taking the train  
+I’m very late
+I’m lost please help
+Do you have an Oyster Card for the tube, if not then do you have a contactless card?  
+#Yes, I have a contactless card  
+I like oysters  
+The tube is very fast transport!
+Perfect! Do you know where the nearest station is?  
+#No, I do not could you please tell me  
+The nearest station is somewhere
+Why are you asking me this?
+The nearest station is Bond Street. If you keep walking straight it will eventually be on your left.  
+#Thank you! Where would I then go from there?  
+I would like to order a coffee
+I'd like to go to Croydon
+From there, take the jubilee line southbound towards Stratford and get off at Waterloo. Is that all?  
+#Yes, thank you very much for the help!  
+Stratford is a town in East London in the London Borough of Newham
+No, where is the nearest station?
+No worries mate, goodbye!  
+#Goodbye!  
+Hello!  
+Good morning!  
+(System message) Which directions should you now take?  
+#Walk to Bond Street station, take the jubilee line southbound, and get off at Waterloo  
+Walk to Waterloo, take the jubilee line southbound, and get off at Bond Street  
+Walk to Jubilee, take the Bond Street line southbound, and get off at Waterloo  

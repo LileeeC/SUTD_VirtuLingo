@@ -1,0 +1,36 @@
+Hi! Welcome! What do you want today?
+#I’ll have a small coffee, please.
+I want milk
+Awesome
+Ok. Hot or iced?
+You want it hot.
+#Less ice please.
+They are milk.
+Awesome. Do you want black coffee?
+#No, I need a pick-me-up, regular please.
+No ice, less milk please.
+Thank you
+And would you like milk?
+Yes, ice please.
+Yes, coffee please.
+#Yes, milk please.
+Ok. You want a small iced coffee with milk?
+Thank you.
+#Yes, please.
+More ice.
+For here or to go?
+#To go
+Cash
+Pick-me-up
+Alright. Cash or credit card?
+I want cash.
+I will use coffee.
+#I will use card.
+Awesome. One small iced coffee with milk, coming right up.
+#Thank you!
+Hi
+You’re welcome
+You’re Welcome. Have a great day.
+#Thanks, you too!
+No thank you.
+Black Coffee please.
