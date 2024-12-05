@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\mainscene\\scripts\\speechbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\speechbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\User\\SUTD_VirtuLingo\\Project\\assets\\mainscene\\scripts\\randomizescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\randomizescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\mainscene\\scripts\\snapping scripts\\levelcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\snapping scripts\\levelcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\User\\SUTD_VirtuLingo\\Project\\assets\\mainscene\\scripts\\snapping scripts\\snaptolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\User\\SUTD_VirtuLingo\\Project\\assets\\mainscene\\scripts\\snapping scripts\\snapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\snapping scripts\\snapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\mainscene\\scripts\\speechbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\speechbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\User\\SUTD_VirtuLingo\\Project\\assets\\mainscene\\scripts\\randomizescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\randomizescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.xr.management@4.4.0\\Runtime\\XRLoaderHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,23 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "LevelCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\Snapping Scripts\\LevelCompleted.cs",
+              "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\Snapping Scripts\\LevelCompleted.cs",
+              "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\Snapping Scripts\\LevelCompleted.cs",
+              "RelativeToolTip": "Assets\\MainScene\\Scripts\\Snapping Scripts\\LevelCompleted.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:06:06.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SnapToLocation.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\Snapping Scripts\\SnapToLocation.cs",
               "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\Snapping Scripts\\SnapToLocation.cs",
               "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\Snapping Scripts\\SnapToLocation.cs",
               "RelativeToolTip": "Assets\\MainScene\\Scripts\\Snapping Scripts\\SnapToLocation.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T05:09:45.244Z"
+              "WhenOpened": "2024-12-03T05:09:45.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SnapObject.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\Snapping Scripts\\SnapObject.cs",
               "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\Snapping Scripts\\SnapObject.cs",
@@ -58,24 +76,25 @@
               "RelativeToolTip": "Assets\\MainScene\\Scripts\\Snapping Scripts\\SnapObject.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T05:09:15.782Z"
+              "WhenOpened": "2024-12-03T05:09:15.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SpeechBubble.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechBubble.cs",
               "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\SpeechBubble.cs",
               "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechBubble.cs",
               "RelativeToolTip": "Assets\\MainScene\\Scripts\\SpeechBubble.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:01:42.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RandomizeScript.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\RandomizeScript.cs",
               "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\RandomizeScript.cs",
@@ -87,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "XRLoaderHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.xr.management@4.4.0\\Runtime\\XRLoaderHelper.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.management@4.4.0\\Runtime\\XRLoaderHelper.cs",
@@ -99,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ScreenShotHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\CoffeeShopStarterPack\\Scripts\\Utilities\\ScreenShotHelper.cs",
               "RelativeDocumentMoniker": "Assets\\CoffeeShopStarterPack\\Scripts\\Utilities\\ScreenShotHelper.cs",

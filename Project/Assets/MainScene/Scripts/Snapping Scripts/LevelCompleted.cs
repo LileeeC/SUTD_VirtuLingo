@@ -23,6 +23,7 @@ public class LevelCompleted : MonoBehaviour
             Debug.Log(levelCompleted());
             //Enter next level code here
             SceneManager.LoadScene("EasyLifeScene");
+            completed = true;
         }
     }
 
