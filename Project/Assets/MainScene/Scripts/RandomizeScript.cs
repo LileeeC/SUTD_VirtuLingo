@@ -17,10 +17,20 @@ public class RandomizeScript : MonoBehaviour
     private string currentDialogue;
 
     private GameObject userChoice;
+    private GameObject avatar;
 
     void Start()
     {
         speech = GetComponent<SpeechBubble>();
+        
+        if (avatar == null)
+    {
+        avatar = GameObject.FindWithTag("Avatar"); // Assumes avatar has a tag "Avatar"
+        if (avatar == null)
+        {
+            Debug.LogError("Avatar GameObject is not assigned or missing!");
+        }
+    }
     }
 
     public void randomizeOptions(List<string> lines, int currentIndex, List<int> correctChoices)
@@ -130,6 +140,7 @@ public class RandomizeScript : MonoBehaviour
         {
             getTextImage(userChoice).color = Color.green;
             StartCoroutine(StartTimer(2, "Correct!", 0.05f, false, Color.green));
+            AvatarStartTalking(avatar);
         }
 
         else
@@ -142,5 +153,12 @@ public class RandomizeScript : MonoBehaviour
     Image getTextImage(GameObject obj)
     {
         return obj.GetComponent<Image>();
+    }
+
+    public void AvatarStartTalking(GameObject g)
+    {
+        Animator anim;
+        anim = g.GetComponent<Animator>();
+        anim.Play("Talk");
     }
 }
