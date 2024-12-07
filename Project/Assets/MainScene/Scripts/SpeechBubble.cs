@@ -19,6 +19,8 @@ public class SpeechBubble : MonoBehaviour
 
     private Coroutine typingCoroutine; // Store reference to the current coroutine
 
+    public GameObject congratulationsMsg;
+
     void Start()
     {
         HideBubble();
@@ -104,6 +106,7 @@ public class SpeechBubble : MonoBehaviour
             typingCoroutine = null;
         }
 
+        congratulationsMsg.SetActive(true);
         speechBubble.SetActive(false);
         currentLineIndex = 0;
     }

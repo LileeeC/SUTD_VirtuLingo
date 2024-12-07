@@ -97,7 +97,7 @@ public class RandomizeScript : MonoBehaviour
         if (!isTimerRunning) // Check if the timer is already running.
         {
             userChoice = clickedObject;
-            StartCoroutine(StartTimer(2f, "...", 0.5f, true, Color.black)); // Start a 10-second timer.
+            StartCoroutine(StartTimer(1f, "...", 0.2f, true, Color.black)); // Start a 10-second timer.
         }
     }
 
@@ -139,14 +139,14 @@ public class RandomizeScript : MonoBehaviour
         if (userChoice == currentCorrectChoice)
         {
             getTextImage(userChoice).color = Color.green;
-            StartCoroutine(StartTimer(2, "Correct!", 0.05f, false, Color.green));
+            StartCoroutine(StartTimer(2f, "Correct!", 0.05f, false, Color.green));
             AvatarStartTalking(avatar);
         }
 
         else
         {
             getTextImage(userChoice).color = Color.red;
-            StartCoroutine(IncorrectMsg(2, "Incorrect!", 0.05f, false, Color.red));
+            StartCoroutine(IncorrectMsg(2f, "Incorrect!", 0.05f, false, Color.red));
         }
     }
 
