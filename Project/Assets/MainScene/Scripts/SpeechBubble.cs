@@ -24,6 +24,7 @@ public class SpeechBubble : MonoBehaviour
     void Start()
     {
         HideBubble();
+        congratulationsMsg.SetActive(false);
         LoadDialogue("Assets/MainScene/DialogueText/" + dialogueFile); // Put path to dialogue text file here
         randomize = GetComponent<RandomizeScript>();
         randomize.hideBubbles();
