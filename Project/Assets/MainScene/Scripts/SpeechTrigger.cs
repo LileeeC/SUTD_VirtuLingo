@@ -1,19 +1,20 @@
 using UnityEngine;
 
-public class CollisionTrigger : MonoBehaviour
+public class SpeechTrigger : MonoBehaviour
 {
-    private string targetObjectName = "Player";
-    private bool alreadyTriggered = false;
-    public GameObject mainSpeech;
+    public GameObject targetElement; // The element to activate
+    public GameObject button;        // The button to deactivate
 
-    // This function is called when a collision happens
-    void OnCollisionEnter(Collision collision)
+    public void ActivateTarget()
     {
-        // Check if the collision is with the target object by tag or name
-        if (collision.gameObject.name == targetObjectName && !alreadyTriggered)
+        if (targetElement != null)
         {
-            alreadyTriggered = true;
-            mainSpeech.GetComponent<SpeechBubble>().NextLine();
+            targetElement.SetActive(true); // Activate the target element
+        }
+
+        if (button != null)
+        {
+            button.SetActive(false); // Deactivate the button
         }
     }
 }
