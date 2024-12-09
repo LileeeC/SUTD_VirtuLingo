@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\vrtemplateassets\\scripts\\stepmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\vrtemplateassets\\scripts\\stepmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\mainscene\\scripts\\speechtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\speechtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\mainscene\\scripts\\randomizescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\randomizescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\mainscene\\scripts\\speechbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainscene\\scripts\\speechbubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StepManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\VRTemplateAssets\\Scripts\\StepManager.cs",
-              "RelativeDocumentMoniker": "Assets\\VRTemplateAssets\\Scripts\\StepManager.cs",
-              "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\VRTemplateAssets\\Scripts\\StepManager.cs",
-              "RelativeToolTip": "Assets\\VRTemplateAssets\\Scripts\\StepManager.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAABGAAAAAAAAAA==",
+              "Title": "SpeechTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\SpeechTrigger.cs",
+              "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechTrigger.cs",
+              "RelativeToolTip": "Assets\\MainScene\\Scripts\\SpeechTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:40:19.564Z",
+              "WhenOpened": "2024-12-09T07:00:25.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomizeScript.cs",
+              "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\RandomizeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\RandomizeScript.cs",
+              "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\RandomizeScript.cs",
+              "RelativeToolTip": "Assets\\MainScene\\Scripts\\RandomizeScript.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowHgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:20:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeechBubble.cs",
+              "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechBubble.cs",
+              "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\SpeechBubble.cs",
+              "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechBubble.cs",
+              "RelativeToolTip": "Assets\\MainScene\\Scripts\\SpeechBubble.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:19:06.228Z",
               "EditorCaption": ""
             }
           ]

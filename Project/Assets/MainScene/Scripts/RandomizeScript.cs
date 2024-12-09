@@ -119,14 +119,13 @@ public class RandomizeScript : MonoBehaviour
 
         isTimerRunning = false; // Reset the flag after the timer completes.
     }
-
     IEnumerator IncorrectMsg(float timerLength, string msg, float typespeed, bool s, Color textColor)
     {
         isTimerRunning = true; // Set the flag to indicate the timer is running.
         speech.ShowBubble(msg, typespeed, textColor);
 
         yield return new WaitForSeconds(timerLength); // Wait for the specified time.
-        
+
         speech.ShowBubble(currentDialogue, 0.05f, Color.black);
         
         isTimerRunning = false; // Reset the flag after the timer completes.
