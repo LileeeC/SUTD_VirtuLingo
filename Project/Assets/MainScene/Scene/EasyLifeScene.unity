@@ -9089,13 +9089,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 251954494}
-        m_TargetAssemblyTypeName: SpeechTrigger, Assembly-CSharp
-        m_MethodName: ActivateTarget
-        m_Mode: 1
+      - m_Target: {fileID: 228611594}
+        m_TargetAssemblyTypeName: RunAnimation, Assembly-CSharp
+        m_MethodName: StartTalking
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgument: {fileID: 926635350}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -9139,27 +9139,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 228611589}
   m_CullTransparentMesh: 1
---- !u!65 &228611594
-BoxCollider:
+--- !u!114 &228611594
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 228611589}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb94ad3603ae5427e8180fcdc755c934, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &230207666
 GameObject:
   m_ObjectHideFlags: 0
@@ -9428,7 +9419,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -3.89, y: 3.22}
+  m_AnchoredPosition: {x: -3.89, y: 3.31}
   m_SizeDelta: {x: 5, y: 3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &251954499
@@ -19361,15 +19352,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.4
+      value: 1.49898
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.4
+      value: 1.49898
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.4
+      value: 1.49898
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19415,6 +19406,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8113662451844533969, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 860c6b6c265354b6892b67a4cf8ce465, type: 2}
     - target: {fileID: 919132149155446097, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_Name
       value: Person
@@ -19423,6 +19418,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7116774802218284060, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4be92f16e479749bebc8eef92144518c, type: 2}
+    - target: {fileID: 7927558736831396235, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4be92f16e479749bebc8eef92144518c, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34201,7 +34204,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 1.8e-44, z: 1.424e-41, w: 0}
+  m_BoundingSphereOverride: {x: 1e-45, y: 4.7338447e-36, z: 1.02e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
