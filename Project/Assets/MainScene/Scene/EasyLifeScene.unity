@@ -9100,6 +9100,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: SpeechTrigger, Assembly-CSharp
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &228611592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9405,7 +9417,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -3.89, y: 3.22}
+  m_AnchoredPosition: {x: -3.89, y: 3.31}
   m_SizeDelta: {x: 5, y: 3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &253669325
@@ -19319,15 +19331,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.4
+      value: 1.49898
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.4
+      value: 1.49898
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.4
+      value: 1.49898
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19373,6 +19385,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8113662451844533969, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 860c6b6c265354b6892b67a4cf8ce465, type: 2}
     - target: {fileID: 919132149155446097, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
       propertyPath: m_Name
       value: Person
@@ -19381,6 +19397,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7116774802218284060, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4be92f16e479749bebc8eef92144518c, type: 2}
+    - target: {fileID: 7927558736831396235, guid: f8118992585ce4e8cad0cfbe7cec3b4d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4be92f16e479749bebc8eef92144518c, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34159,7 +34183,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 1e-45, z: 1.9926e-41, w: 0}
+  m_BoundingSphereOverride: {x: 1e-45, y: 4.7338447e-36, z: 1.02e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0

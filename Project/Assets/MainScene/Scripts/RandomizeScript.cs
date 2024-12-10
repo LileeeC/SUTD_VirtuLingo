@@ -157,8 +157,20 @@ public class RandomizeScript : MonoBehaviour
 
     public void AvatarStartTalking(GameObject g)
     {
-        Animator anim;
-        anim = g.GetComponent<Animator>();
-        anim.Play("Talk");
+        if (g == null)
+        {
+            Debug.LogWarning("Avatar GameObject is null!");
+            return;
+        }
+
+        Animator anim = g.GetComponent<Animator>();
+        if (anim != null)
+        {
+            anim.Play("Talk");
+        }
+        else
+        {
+            Debug.LogWarning("Avatar is missing an Animator component!");
+        }
     }
 }
