@@ -81,6 +81,7 @@
     <Compile Include="Assets\MainScene\Scripts\SpeechTrigger.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\Product.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\CookableProduct.cs" />
+    <Compile Include="Assets\MainScene\Scripts\RunAnimation.cs" />
     <Compile Include="Assets\VRCinemaforMobile\Scripts\SpinObj.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\DrinkableProduct.cs" />
     <Compile Include="Assets\MainScene\Scripts\SpeechBubble.cs" />
