@@ -9017,6 +9017,7 @@ GameObject:
   - component: {fileID: 228611593}
   - component: {fileID: 228611592}
   - component: {fileID: 228611591}
+  - component: {fileID: 228611594}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -9088,25 +9089,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 251954494}
-        m_TargetAssemblyTypeName: SpeechTrigger, Assembly-CSharp
-        m_MethodName: ActivateTarget
-        m_Mode: 1
+      - m_Target: {fileID: 228611594}
+        m_TargetAssemblyTypeName: RunAnimation, Assembly-CSharp
+        m_MethodName: StartTalking
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: SpeechTrigger, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgument: {fileID: 926635350}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -9150,6 +9139,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 228611589}
   m_CullTransparentMesh: 1
+--- !u!114 &228611594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 228611589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb94ad3603ae5427e8180fcdc755c934, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &230207666
 GameObject:
   m_ObjectHideFlags: 0
