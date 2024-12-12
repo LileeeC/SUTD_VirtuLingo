@@ -11,9 +11,14 @@ learning phrases for daily life situations by interacting with objects and avata
 
 ## Installation Instructions:
 1. Download the game file.  
-2. Start the application by running Assets>MainScene>Scene>HomeScene. 
-3. Install the VR platform (e.g., XR Plugin, Meta SDK) compatible with your game.  
-4. Connect your VR headset.
+**Do the steps below if you haven't setup the VR environment.**
+1. Install [Meta All-in-One SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657) 
+or just download the necessary ones [Interaction SDK, Interaction SDK Essentials and XR Core SDK](https://assetstore.unity.com/publishers/25353)
+2. Import SDKs in Unity project in Window > Package Manager
+3. Install XR Plugin Management and Oculus XR Plugin in Window > Packages: Unity Registry
+4. Switch platform to Android in File > Build Settings and choose your device for the Run Device.
+5. Navigate to Edit > Project Settings > Meta XR, click on the Fix All button to finish the setting.  
+Now, you can start the application by running **Assets > MainScene > Scene > HomeScene**. 
 
 ## Controls:
 - Movement
@@ -42,8 +47,7 @@ learning phrases for daily life situations by interacting with objects and avata
 
 
 ## Credits:
-This is a module project for 50.054 Extened Reality in Singapore University of Technology and Design(SUTD), fall semester, 2024.  
-Instructed by the teaching team, Prof. Peng Song and TA Siqi Li.  
+This is a module project for 50.054 Extened Reality in Singapore University of Technology and Design(SUTD), fall semester, 2024. Instructed by the teaching team, Prof. Peng Song and TA Siqi Li.  
 Developer team: Ryan Tao Javier, Mendy Chen, Earvin Zachary Cabrera, Sanne van Dijk, Jenny Chou
 
 ## Contact:
