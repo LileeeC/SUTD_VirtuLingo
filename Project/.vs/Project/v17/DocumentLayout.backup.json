@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\sutd_virtulingo\\project\\assets\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\user\\sutd_virtulingo\\project\\assets\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.0.3\\Runtime\\Interaction\\Interactors\\XRPokeInteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-12-11T10:18:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "YureiManagerBRP.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
               "RelativeDocumentMoniker": "Assets\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "XRRayInteractor.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.0.3\\Runtime\\Interaction\\Interactors\\XRRayInteractor.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.0.3\\Runtime\\Interaction\\Interactors\\XRRayInteractor.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.0.3\\Runtime\\Interaction\\Interactors\\XRRayInteractor.cs",
               "ViewState": "AgIAAI0KAAAAAAAAAAAowJUKAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:17:00.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T08:17:00.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "XRPokeInteractor.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.0.3\\Runtime\\Interaction\\Interactors\\XRPokeInteractor.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.0.3\\Runtime\\Interaction\\Interactors\\XRPokeInteractor.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.0.3\\Runtime\\Interaction\\Interactors\\XRPokeInteractor.cs",
               "ViewState": "AgIAADUCAAAAAAAAAAAowEsCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:11:26.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T08:11:26.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ControllerInputActionManager.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\Samples\\XR Interaction Toolkit\\3.0.3\\Starter Assets\\Scripts\\ControllerInputActionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.0.3\\Starter Assets\\Scripts\\ControllerInputActionManager.cs",
@@ -93,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SpeechTrigger.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\SpeechTrigger.cs",
@@ -105,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RandomizeScript.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\RandomizeScript.cs",
               "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\RandomizeScript.cs",
@@ -117,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SpeechBubble.cs",
               "DocumentMoniker": "C:\\Users\\User\\SUTD_VirtuLingo\\Project\\Assets\\MainScene\\Scripts\\SpeechBubble.cs",
               "RelativeDocumentMoniker": "Assets\\MainScene\\Scripts\\SpeechBubble.cs",
